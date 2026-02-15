@@ -1,0 +1,24 @@
+{
+  "name": "helvetic-dynamics-website",
+  "version": "1.0.0",
+  "description": "Static website for Helvetic Dynamics AG",
+  "scripts": {
+    "start": "npx lite-server",
+    "predeploy": "echo 'Deploying to GitHub Pages...'",
+    "deploy": "gh-pages -d . --src \"{index.html,css/**,js/**,i18n/**,assets/**,sitemap.xml,robots.txt}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xhevops/veton-website-01.git"
+  },
+  "keywords": ["transport", "logistics", "switzerland", "helvetic-dynamics"],
+  "author": "Helvetic Dynamics AG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xhevops/veton-website-01/issues"
+  },
+  "homepage": "https://xhevops.github.io/veton-website-01",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
