@@ -5,7 +5,7 @@
   "scripts": {
     "start": "npx lite-server",
     "predeploy": "echo 'Deploying to GitHub Pages...'",
-    "deploy": "gh-pages -d . --src \"{index.html,css/**,js/**,i18n/**,assets/**,sitemap.xml,robots.txt}\""
+    "deploy": "gh-pages -d . --src \"{index.html,impressum.html,services/**,css/**,js/**,i18n/**,assets/**,.nojekyll}\""
   },
   "repository": {
     "type": "git",
