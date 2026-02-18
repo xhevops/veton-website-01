@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="de" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title data-i18n="imprint.page_title">Impressum – HELVETIC DYNAMICS AG</title>
+  <meta name="description" data-i18n="imprint.page_description" content="Impressum der Helvetic Dynamics AG mit allen rechtlichen Angaben und Kontaktinformationen.">
+  <link rel="icon" type="image/svg+xml" href="assets/icons/favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="header" id="header">
+    <div class="container header__inner">
+      <a href="index.html" class="header__logo" aria-label="Helvetic Dynamics AG – Startseite">
+        <svg class="header__logo-icon" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <rect width="40" height="40" rx="8" fill="#D42B2B"/>
+          <path d="M10 12h8v6h4v-6h8v16h-8v-6h-4v6h-8V12z" fill="#fff"/>
+        </svg>
+        <span class="header__logo-text" id="headerLogoText">HELVETIC DYNAMICS AG</span>
+      </a>
+
+      <nav class="header__nav" id="mainNav" aria-label="Hauptnavigation">
+        <ul class="header__nav-list">
+          <li class="header__nav-lang">
+            <div class="lang-switcher lang-switcher--mobile" id="langSwitcherMobile">
+              <button class="lang-switcher__btn lang-switcher__btn--mobile" aria-expanded="false" aria-haspopup="listbox" aria-label="Sprache wählen">
+                <svg class="lang-switcher__icon" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                  <circle cx="10" cy="10" r="8.5" stroke="currentColor" stroke-width="1.5"/>
+                  <ellipse cx="10" cy="10" rx="4" ry="8.5" stroke="currentColor" stroke-width="1.5"/>
+                  <path d="M2 7.5h16M2 12.5h16" stroke="currentColor" stroke-width="1.5"/>
+                </svg>
+                <span class="lang-switcher__current">DE</span>
+                <svg class="lang-switcher__chevron" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                  <path d="M3 4.5l3 3 3-3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+              </button>
+              <ul class="lang-switcher__dropdown" role="listbox" aria-label="Verfügbare Sprachen">
+                <li role="option" aria-selected="true"><button class="lang-switcher__option" data-lang="de">Deutsch</button></li>
+                <li role="option" aria-selected="false"><button class="lang-switcher__option" data-lang="en">English</button></li>
+              </ul>
+            </div>
+          </li>
+          <li><a href="index.html" class="header__nav-link" data-i18n="nav.home">Startseite</a></li>
+          <li><a href="index.html#about" class="header__nav-link" data-i18n="nav.about">Über uns</a></li>
+          <li class="nav-dropdown">
+            <button class="header__nav-link header__nav-link--dropdown" aria-expanded="false" aria-haspopup="true" id="servicesDropdown">
+              <span data-i18n="nav.services">Dienstleistungen</span>
+              <svg class="nav-dropdown__chevron" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                <path d="M3 4.5l3 3 3-3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </button>
+            <ul class="nav-dropdown__menu" role="menu" aria-label="Dienstleistungen">
+              <li role="menuitem"><a href="services/transport.html" class="nav-dropdown__link" data-i18n="services.items.transport.title">Gütertransport</a></li>
+              <li role="menuitem"><a href="services/logistics.html" class="nav-dropdown__link" data-i18n="services.items.logistics.title">Logistikdienstleistungen</a></li>
+              <li role="menuitem"><a href="services/autoparts.html" class="nav-dropdown__link" data-i18n="services.items.autoparts.title">Autoersatzteile</a></li>
+              <li role="menuitem"><a href="services/vehicles.html" class="nav-dropdown__link" data-i18n="services.items.vehicles.title">Fahrzeugverkauf &amp; Reparatur</a></li>
+              <li role="menuitem"><a href="services/importexport.html" class="nav-dropdown__link" data-i18n="services.items.importexport.title">Import &amp; Export</a></li>
+              <li role="menuitem"><a href="services/courier.html" class="nav-dropdown__link" data-i18n="services.items.courier.title">Kurierdienste</a></li>
+              <li role="menuitem"><a href="services/moving.html" class="nav-dropdown__link" data-i18n="services.items.moving.title">Umzugsdienste</a></li>
+              <li role="menuitem"><a href="services/realestate.html" class="nav-dropdown__link" data-i18n="services.items.realestate.title">Immobilien</a></li>
+            </ul>
+          </li>
+          <li><a href="index.html#contact" class="header__nav-link header__nav-link--cta" data-i18n="nav.contact">Kontakt</a></li>
+        </ul>
+      </nav>
+
+      <div class="header__actions">
+        <div class="lang-switcher" id="langSwitcher">
+          <button class="lang-switcher__btn" aria-expanded="false" aria-haspopup="listbox" aria-label="Sprache wählen">
+            <svg class="lang-switcher__icon" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+              <circle cx="10" cy="10" r="8.5" stroke="currentColor" stroke-width="1.5"/>
+              <ellipse cx="10" cy="10" rx="4" ry="8.5" stroke="currentColor" stroke-width="1.5"/>
+              <path d="M2 7.5h16M2 12.5h16" stroke="currentColor" stroke-width="1.5"/>
+            </svg>
+            <span class="lang-switcher__current">DE</span>
+            <svg class="lang-switcher__chevron" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+              <path d="M3 4.5l3 3 3-3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </button>
+          <ul class="lang-switcher__dropdown" role="listbox" aria-label="Verfügbare Sprachen">
+            <li role="option" aria-selected="true"><button class="lang-switcher__option" data-lang="de">Deutsch</button></li>
+            <li role="option" aria-selected="false"><button class="lang-switcher__option" data-lang="en">English</button></li>
+          </ul>
+        </div>
+
+        <button class="header__menu-toggle" id="menuToggle" aria-expanded="false" aria-controls="mainNav" aria-label="Menü öffnen">
+          <span class="header__menu-bar"></span>
+          <span class="header__menu-bar"></span>
+          <span class="header__menu-bar"></span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="about" style="padding: var(--section-py) 0;">
+      <div class="container">
+        <div class="about__grid about__grid--single">
+          <div>
+            <div class="section-label anim-fade-up" data-i18n="imprint.label">Rechtliches</div>
+            <h1 class="section-title anim-fade-up" data-i18n="imprint.title">Impressum</h1>
+            
+            <div class="about__legal anim-fade-up" style="margin-top: 2rem;">
+              <h2 class="section-title" style="font-size: 1.5rem; margin-bottom: 1.5rem;" data-i18n="imprint.company_info">Angaben gemäss Art. 8 Abs. 1 OR</h2>
+              
+              <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.5rem; margin-bottom: 2rem;">
+                <div>
+                  <strong style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-muted);" data-i18n="about.legal.form">Rechtsform</strong>
+                  <p style="margin-top: 0.25rem; font-size: 0.9375rem; color: var(--gray-900);" data-i18n="about.legal.form_value">Aktiengesellschaft (AG)</p>
+                </div>
+                <div>
+                  <strong style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-muted);" data-i18n="about.legal.register">Handelsregister</strong>
+                  <p style="margin-top: 0.25rem; font-size: 0.9375rem; color: var(--gray-900);" data-i18n="about.legal.register_value">CH-020.3.046.307-8</p>
+                </div>
+                <div>
+                  <strong style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-muted);" data-i18n="about.legal.uid">UID / MWST</strong>
+                  <p style="margin-top: 0.25rem; font-size: 0.9375rem; color: var(--gray-900);" data-i18n="about.legal.uid_value">CHE-269.404.940</p>
+                </div>
+                <div>
+                  <strong style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-muted);" data-i18n="about.management.title">Geschäftsleitung</strong>
+                  <p style="margin-top: 0.25rem; font-size: 0.9375rem; color: var(--gray-900);" data-i18n="about.management.member">Spat Fejzulahu</p>
+                </div>
+              </div>
+
+              <div style="margin-top: 2rem; padding-top: 2rem; border-top: 1px solid var(--border);">
+                <h3 style="font-size: 1.25rem; font-weight: 700; margin-bottom: 1rem; color: var(--gray-900);" data-i18n="imprint.contact_title">Kontakt</h3>
+                <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.5rem;">
+                  <div>
+                    <strong style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-muted);" data-i18n="contact.info.address_label">Adresse</strong>
+                    <p style="margin-top: 0.25rem; font-size: 0.9375rem; color: var(--gray-900);" data-i18n="contact.info.address">Mühlibachstrasse 42, 8107 Buchs ZH</p>
+                  </div>
+                  <div>
+                    <strong style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-muted);" data-i18n="contact.info.phone_label">Telefon</strong>
+                    <p style="margin-top: 0.25rem; font-size: 0.9375rem; color: var(--gray-900);">+41 44 556 70 90</p>
+                  </div>
+                  <div>
+                    <strong style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-muted);" data-i18n="contact.info.email_label">E-Mail</strong>
+                    <p style="margin-top: 0.25rem; font-size: 0.9375rem; color: var(--gray-900);">info@helvetic-dynamics.ch</p>
+                  </div>
+                  <div>
+                    <strong style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-muted);" data-i18n="contact.info.hours_label">Öffnungszeiten</strong>
+                    <p style="margin-top: 0.25rem; font-size: 0.9375rem; color: var(--gray-900);" data-i18n="contact.info.hours">Mo – Fr: 07:00 – 18:00</p>
+                  </div>
+                </div>
+              </div>
+
+              <div style="margin-top: 2rem; padding-top: 2rem; border-top: 1px solid var(--border);">
+                <h3 style="font-size: 1.25rem; font-weight: 700; margin-bottom: 1rem; color: var(--gray-900);" data-i18n="imprint.disclaimer_title">Haftungsausschluss</h3>
+                <div style="margin-bottom: 1.5rem;">
+                  <h4 style="font-size: 1rem; font-weight: 600; margin-bottom: 0.5rem; color: var(--gray-900);" data-i18n="imprint.disclaimer_content.title">Haftung für Inhalte</h4>
+                  <p style="font-size: 0.9375rem; color: var(--gray-700); line-height: 1.7;" data-i18n="imprint.disclaimer_content.text">Die Inhalte unserer Seiten wurden mit grösster Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer__inner">
+      <div class="footer__brand">
+        <div class="footer__logo">
+          <svg class="header__logo-icon" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <rect width="40" height="40" rx="8" fill="#D42B2B"/>
+            <path d="M10 12h8v6h4v-6h8v16h-8v-6h-4v6h-8V12z" fill="#fff"/>
+          </svg>
+          <span data-i18n="footer.company">HELVETIC DYNAMICS AG</span>
+        </div>
+        <p class="footer__tagline" data-i18n="footer.tagline">Ihr Partner für Transport & Logistik in der Schweiz.</p>
+        <p class="footer__uid" data-i18n="footer.uid">UID: CHE-269.404.940</p>
+      </div>
+      <div class="footer__links">
+        <h4 data-i18n="footer.links_title">Navigation</h4>
+        <ul>
+          <li><a href="index.html#hero" data-i18n="nav.home">Startseite</a></li>
+          <li><a href="index.html#about" data-i18n="nav.about">Über uns</a></li>
+          <li><a href="index.html#services" data-i18n="nav.services">Dienstleistungen</a></li>
+          <li><a href="index.html#contact" data-i18n="nav.contact">Kontakt</a></li>
+        </ul>
+      </div>
+      <div class="footer__links">
+        <h4 data-i18n="footer.legal_title">Rechtliches</h4>
+        <ul>
+          <li><a href="impressum.html" data-i18n="footer.imprint">Impressum</a></li>
+          </ul>
+      </div>
+    </div>
+    <div class="footer__bottom">
+      <div class="container">
+        <p data-i18n="footer.copyright">&copy; 2025 HELVETIC DYNAMICS AG. Alle Rechte vorbehalten.</p>
+      </div>
+    </div>
+  </footer>
+
+  <button class="back-to-top" id="backToTop" aria-label="Nach oben scrollen" hidden>
+    <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+      <path d="M12 19V5M5 12l7-7 7 7" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </button>
+
+  <script src="js/i18n.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
