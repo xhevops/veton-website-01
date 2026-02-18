@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xhevops/veton-website-01.git"
+    "url": "git+https://github.com/vetonshabani0/veton-website-01.git"
   },
   "keywords": ["transport", "logistics", "switzerland", "helvetic-dynamics"],
   "author": "Helvetic Dynamics AG",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xhevops/veton-website-01/issues"
+    "url": "https://github.com/vetonshabani0/veton-website-01/issues"
   },
-  "homepage": "https://xhevops.github.io/veton-website-01",
+  "homepage": "https://vetonshabani0.github.io/veton-website-01",
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
