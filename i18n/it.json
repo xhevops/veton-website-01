@@ -1,0 +1,335 @@
+{
+  "meta": {
+    "title": "Helvetic Dynamics AG – Trasporto, Logistica, Impresa di Costruzioni, Collocamento Personale in Svizzera",
+    "description": "Helvetic Dynamics AG – Trasporto, Logistica, Impresa di Costruzioni, Collocamento Personale, Commercio Auto, Ricambi Auto, Import/Export, Servizi Corrieri, Immobiliare, Ufficio Temporaneo e Servizi Autista in Svizzera.",
+    "keywords": "trasporti Svizzera, logistica Buchs ZH, trasporto merci, commercio veicoli, ricambi auto, servizio corriere, import export Svizzera, Helvetic Dynamics AG"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "Chi Siamo",
+    "services": "Servizi",
+    "contact": "Contatto",
+    "language": "Lingua"
+  },
+  "hero": {
+    "badge": "In Svizzera dal 2018",
+    "title": "Logistica & Trasporti Affidabili",
+    "subtitle": "Il vostro partner svizzero per Trasporto, Logistica, Impresa di Costruzioni, Collocamento Personale e più dal 2018.",
+    "cta_primary": "I Nostri Servizi",
+    "cta_secondary": "Contattaci"
+  },
+  "cta": {
+    "title": "Pronti per una logistica affidabile?",
+    "text": "Contattateci oggi per una consulenza gratuita.",
+    "button": "Richiedi un Preventivo"
+  },
+  "about": {
+    "label": "Chi Siamo",
+    "title": "TEAM",
+    "description": "Dal 2018 forniamo servizi di trasporto e logistica affidabili in tutta la Svizzera dalla nostra base a Buchs ZH. Come società anonima (SA) situata in Mülibachstrasse 42, 8107 Buchs ZH, uniamo un'ampia gamma di servizi sotto un unico tetto.",
+    "text": "Il nostro focus è su qualità, puntualità e servizio personalizzato. Che si tratti di trasporto merci, commercio veicoli, gestione immobiliare o soluzioni di import ed export internazionali – siamo il vostro partner affidabile. Con oltre 7 anni di esperienza nel mercato svizzero, offriamo soluzioni complete per le vostre esigenze logistiche e commerciali.",
+    "legal": {
+      "form": "Forma Giuridica",
+      "form_value": "Società Anonima (SA)",
+      "register": "Registro di Commercio",
+      "register_value": "CH-020.3.046.307-8",
+      "uid": "UID / IVA",
+      "uid_value": "CHE-269.404.940",
+      "capital": "Capitale",
+      "capital_value": "CHF 100'000",
+      "founded": "Fondata",
+      "founded_value": "20 luglio 2018"
+    },
+    "team": {
+      "title": "TEAM",
+      "members": [
+        "Špat Fejzulahu",
+        "Yzeir Fejzulahu",
+        "Pajtim Fejzulahu"
+      ]
+    },
+    "management": {
+      "title": "Direzione",
+      "member": "Špat Fejzulahu"
+    },
+    "stats": {
+      "since": "Dal",
+      "since_value": "2018",
+      "location": "Sede",
+      "location_value": "Buchs ZH",
+      "services_count": "Servizi",
+      "services_count_value": "8+",
+      "coverage": "Copertura",
+      "coverage_value": "Tutta la Svizzera"
+    }
+  },
+  "advantages": {
+    "label": "Perché Noi",
+    "title": "I Vostri Vantaggi",
+    "subtitle": "Cosa ci distingue e perché i clienti si fidano di noi",
+    "items": {
+      "quality": {
+        "title": "Qualità & Affidabilità",
+        "description": "Oltre 7 anni di esperienza garantiscono i più alti standard di qualità e consegne puntuali."
+      },
+      "network": {
+        "title": "Rete Nazionale",
+        "description": "Copertura completa in tutta la Svizzera con partner affidabili e percorsi efficienti."
+      },
+      "flexibility": {
+        "title": "Soluzioni Flessibili",
+        "description": "Servizi su misura per ogni esigenza – da piccole spedizioni a grandi progetti."
+      },
+      "technology": {
+        "title": "Tecnologia Moderna",
+        "description": "Sistemi innovativi per tracciamento, pianificazione e comunicazione per una trasparenza ottimale."
+      },
+      "support": {
+        "title": "Servizio Personalizzato",
+        "description": "Supporto dedicato e tempi di risposta rapidi – siamo sempre qui per voi."
+      },
+      "experience": {
+        "title": "Competenza Provata",
+        "description": "Anni di esperienza in trasporti, logistica e commercio veicoli con successo dimostrato."
+      }
+    }
+  },
+  "services": {
+    "label": "Servizi",
+    "title": "Cosa Offriamo",
+    "subtitle": "Dal trasporto merci alla gestione immobiliare – forniamo soluzioni complete per le vostre esigenze logistiche e commerciali.",
+    "items": {
+      "transport": {
+        "title": "Trasporto Merci",
+        "description": "Trasporto affidabile di tutti i tipi di merci – nazionale e internazionale, puntuale e sicuro.",
+        "page_title": "Trasporto Merci – Helvetic Dynamics AG",
+        "page_description": "Trasporto merci professionale in tutta la Svizzera. Soluzioni di trasporto nazionali e internazionali per tutti i tipi di merci.",
+        "details": "Offriamo trasporto affidabile di tutti i tipi di merci, sia a livello nazionale che internazionale. La nostra flotta e la nostra rete consentono consegne puntuali e sicure.",
+        "features": [
+          "Trasporto nazionale e internazionale",
+          "Tutti i tipi di merci",
+          "Consegna puntuale",
+          "Trasporto assicurato",
+          "Orari di ritiro e consegna flessibili"
+        ]
+      },
+      "logistics": {
+        "title": "Servizi Logistici",
+        "description": "Soluzioni logistiche professionali per la vostra catena di approvvigionamento, dallo stoccaggio alla consegna finale.",
+        "page_title": "Servizi Logistici – Helvetic Dynamics AG",
+        "page_description": "Soluzioni logistiche complete per la vostra catena di approvvigionamento. Dallo stoccaggio alla consegna finale.",
+        "details": "I nostri servizi logistici coprono l'intera catena di approvvigionamento – dallo stoccaggio e dalla preparazione alla consegna finale. Ottimizziamo i vostri processi per la massima efficienza.",
+        "features": [
+          "Stoccaggio e preparazione",
+          "Gestione della catena di approvvigionamento",
+          "Ottimizzazione delle scorte",
+          "Consegne just-in-time",
+          "Logistica e-commerce"
+        ]
+      },
+      "autoparts": {
+        "title": "Ricambi Auto",
+        "description": "Commercio di ricambi auto di alta qualità – disponibilità rapida e prezzi equi.",
+        "page_title": "Ricambi Auto – Helvetic Dynamics AG",
+        "page_description": "Commercio di ricambi auto di alta qualità. Disponibilità rapida e prezzi equi per tutti i tipi di veicoli.",
+        "details": "Il nostro commercio di ricambi auto copre un'ampia gamma di tipi di veicoli. Offriamo disponibilità rapida e prezzi equi per ricambi originali e di qualità.",
+        "features": [
+          "Ricambi originali e di qualità",
+          "Disponibilità rapida",
+          "Prezzi equi",
+          "Tutti i tipi di veicoli",
+          "Consulenza e servizio"
+        ]
+      },
+      "vehicles": {
+        "title": "Commercio Auto",
+        "description": "Acquisto e vendita di veicoli – professionale, affidabile e a prezzi equi.",
+        "page_title": "Commercio Auto – Helvetic Dynamics AG",
+        "page_description": "Acquisto e vendita di veicoli. Professionale, affidabile e a prezzi equi.",
+        "details": "Offriamo commercio professionale di veicoli – dall'acquisto alla vendita. Il nostro team esperto garantisce transazioni affidabili e prezzi equi.",
+        "features": [
+          "Acquisto veicoli",
+          "Vendita veicoli",
+          "Prezzi equi",
+          "Consulenza professionale",
+          "Tutti i tipi di veicoli"
+        ]
+      },
+      "importexport": {
+        "title": "Import & Export",
+        "description": "Servizi di commercio internazionale – ci occupiamo delle vostre esigenze di import ed export.",
+        "page_title": "Import & Export – Helvetic Dynamics AG",
+        "page_description": "Servizi di commercio internazionale per import ed export. Gestione professionale delle vostre attività internazionali.",
+        "details": "Gestiamo tutti gli aspetti del commercio internazionale – dallo sdoganamento e dalla documentazione al trattamento logistico delle vostre attività di import ed export.",
+        "features": [
+          "Sdoganamento",
+          "Documentazione e trattamento",
+          "Trasporto internazionale",
+          "Trattamento commerciale",
+          "Consulenza normativa"
+        ]
+      },
+      "courier": {
+        "title": "Servizi Corrieri",
+        "description": "Servizi corrieri e di consegna rapidi e affidabili per le vostre spedizioni urgenti.",
+        "page_title": "Servizi Corrieri – Helvetic Dynamics AG",
+        "page_description": "Servizi corrieri e di consegna rapidi e affidabili per spedizioni urgenti in tutta la Svizzera.",
+        "details": "I nostri servizi corrieri offrono consegna rapida e affidabile per spedizioni urgenti. Che si tratti di documenti, pacchi o merci speciali – consegniamo in tempo.",
+        "features": [
+          "Consegna rapida",
+          "Servizio lo stesso giorno",
+          "Consegne express",
+          "Tracciamento spedizioni",
+          "Copertura nazionale"
+        ]
+      },
+      "bauschtelle": {
+        "title": "Cantiere",
+        "description": "Servizi professionali di cantiere – dalla pianificazione all'esecuzione, affidabili e puntuali.",
+        "page_title": "Cantiere – Helvetic Dynamics AG",
+        "page_description": "Servizi professionali di cantiere in tutta la Svizzera. Dalla pianificazione all'esecuzione.",
+        "details": "Offriamo servizi completi di cantiere per tutti i tipi di progetti di costruzione. Dalla pianificazione e approvvigionamento materiali all'esecuzione – garantiamo il funzionamento ottimale del vostro cantiere.",
+        "features": [
+          "Pianificazione e coordinamento cantiere",
+          "Approvvigionamento e trasporto materiali",
+          "Esecuzione e supervisione costruzione",
+          "Assicurazione qualità",
+          "Pianificazione flessibile"
+        ]
+      },
+      "realestate": {
+        "title": "Immobiliare",
+        "description": "Acquisto, gestione e vendita di immobili, inclusi ristrutturazione, rinnovamento e costruzione.",
+        "page_title": "Immobiliare – Helvetic Dynamics AG",
+        "page_description": "Servizi immobiliari: acquisto, gestione, vendita, ristrutturazione e nuova costruzione.",
+        "details": "Il nostro servizio immobiliare comprende l'acquisto, la gestione e la vendita di immobili. Vi supportiamo anche in progetti di ristrutturazione, rinnovamento e nuova costruzione.",
+        "features": [
+          "Acquisto e vendita immobili",
+          "Gestione immobiliare",
+          "Ristrutturazione e rinnovamento",
+          "Progetti di nuova costruzione",
+          "Consulenza e pianificazione"
+        ]
+      },
+      "personnel": {
+        "title": "Collocamento Personale",
+        "description": "Collocamento professionale di personale per tutti i settori – professionisti qualificati rapidamente e in modo affidabile.",
+        "page_title": "Collocamento Personale – Helvetic Dynamics AG",
+        "page_description": "Collocamento professionale di personale per tutti i settori. Professionisti qualificati rapidamente e in modo affidabile.",
+        "details": "Collochiamo personale qualificato per tutti i settori e esigenze. Da lavoratori qualificati a specialisti – troviamo i dipendenti giusti per la vostra azienda.",
+        "features": [
+          "Collocamento personale per tutti i settori",
+          "Professionisti qualificati",
+          "Collocamento rapido",
+          "Incarichi a lungo e breve termine",
+          "Supporto individuale"
+        ]
+      },
+      "temporaryoffice": {
+        "title": "Ufficio Temporaneo",
+        "description": "Soluzioni d'ufficio flessibili per progetti temporanei – spazi d'ufficio completamente attrezzati e spazi coworking.",
+        "page_title": "Ufficio Temporaneo – Helvetic Dynamics AG",
+        "page_description": "Soluzioni d'ufficio flessibili per progetti temporanei. Spazi d'ufficio completamente attrezzati e spazi coworking.",
+        "details": "Offriamo soluzioni d'ufficio flessibili per progetti temporanei e esigenze a breve termine. Spazi d'ufficio completamente attrezzati, sale riunioni e spazi coworking disponibili.",
+        "features": [
+          "Spazi d'ufficio completamente attrezzati",
+          "Sale riunioni e conferenze",
+          "Spazi coworking",
+          "Durata affitto flessibile",
+          "Ubicazioni centrali"
+        ]
+      },
+      "construction": {
+        "title": "Costruzione",
+        "description": "Servizi di costruzione completi – da casseratura a muratura, demolizione e ristrutturazioni.",
+        "page_title": "Costruzione – Helvetic Dynamics AG",
+        "page_description": "Servizi di costruzione completi: casseratura, muratura, demolizione, ristrutturazioni e altro.",
+        "details": "Offriamo servizi di costruzione completi per tutti i tipi di progetti di costruzione. I nostri team esperti gestiscono casseratura, muratura, demolizione, ristrutturazioni e tutti gli altri lavori di costruzione.",
+        "features": [
+          "Casseratori (casseratura)",
+          "Muratori (muratura)",
+          "Demolizione e smaltimento",
+          "Personale per ristrutturazioni",
+          "Tutti gli altri lavori di costruzione"
+        ]
+      },
+      "drivers": {
+        "title": "Autista Categoria B & C",
+        "description": "Autisti qualificati con categoria B (auto) e C (camion) – affidabili, esperti e puntuali.",
+        "page_title": "Autista Categoria B & C – Helvetic Dynamics AG",
+        "page_description": "Autisti qualificati con categoria B (auto) e C (camion). Affidabili, esperti e puntuali.",
+        "details": "Collochiamo autisti qualificati con categoria B (auto) e C (camion) per tutte le esigenze di trasporto. I nostri autisti sono esperti, affidabili e possiedono tutte le licenze necessarie.",
+        "features": [
+          "Autisti categoria B (auto)",
+          "Autisti categoria C (camion)",
+          "Autisti esperti e qualificati",
+          "Incarichi a lungo e breve termine",
+          "Tutti i tipi di trasporto"
+        ]
+      }
+    }
+  },
+  "contact": {
+    "label": "Contatto",
+    "title": "Contattateci",
+    "subtitle": "Avete domande o avete bisogno di un preventivo? Saremmo lieti di sentirvi.",
+    "form": {
+      "name": "Il Vostro Nome",
+      "email": "Indirizzo E-mail",
+      "phone": "Numero di Telefono (opzionale)",
+      "service": "Selezionare un Servizio",
+      "service_options": {
+        "default": "Si prega di selezionare…",
+        "transport": "Trasporto Merci",
+        "logistics": "Logistica",
+        "autoparts": "Ricambi Auto",
+        "vehicles": "Commercio Auto",
+        "importexport": "Import & Export",
+        "courier": "Servizio Corriere",
+        "bauschtelle": "Cantiere",
+        "realestate": "Immobiliare",
+        "personnel": "Collocamento Personale",
+        "temporaryoffice": "Ufficio Temporaneo",
+        "construction": "Costruzione",
+        "drivers": "Autista Categoria B & C",
+        "other": "Altro"
+      },
+      "message": "Il Vostro Messaggio",
+      "submit": "Invia Messaggio",
+      "success": "Grazie! Vi contatteremo a breve.",
+      "error": "Si è verificato un errore. Si prega di riprovare."
+    },
+    "info": {
+      "address_label": "Indirizzo",
+      "address": "Mülibachstrasse 42, 8107 Buchs ZH",
+      "email_label": "E-mail",
+      "phone_label": "Telefono",
+      "hours_label": "Orari di Apertura",
+      "hours": "Lun – Ven: 07:00 – 18:00"
+    }
+  },
+  "footer": {
+    "company": "Helvetic Dynamics AG",
+    "tagline": "Helvetic Dynamics AG – Trasporto, Logistica, Impresa di Costruzioni, Collocamento Personale e più.",
+    "uid": "UID: CHE-269.404.940",
+    "links_title": "Navigazione",
+    "legal_title": "Legale",
+    "privacy": "Informativa sulla Privacy",
+    "imprint": "Impressum",
+    "terms": "Termini",
+    "copyright": "© 2025 Helvetic Dynamics AG. Tutti i diritti riservati."
+  },
+  "imprint": {
+    "page_title": "Impressum – HELVETIC DYNAMICS AG",
+    "page_description": "Informazioni legali e dettagli di contatto di Helvetic Dynamics AG.",
+    "label": "Legale",
+    "title": "Impressum",
+    "company_info": "Informazioni secondo l'art. 8 cpv. 1 CO",
+    "contact_title": "Contatto",
+    "disclaimer_title": "Disclaimer",
+    "disclaimer_content": {
+      "title": "Responsabilità per i Contenuti",
+      "text": "I contenuti delle nostre pagine sono stati creati con la massima cura. Tuttavia, non possiamo garantire l'accuratezza, la completezza e l'attualità dei contenuti."
+    }
+  }
+}

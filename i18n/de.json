@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Helvetic Dynamics AG – Transport, Logistik & Fahrzeughandel in der Schweiz",
-    "description": "Helvetic Dynamics AG in Buchs ZH – Ihr Partner für Gütertransport, Logistik, Fahrzeughandel, Autoersatzteile, Import/Export und Kurierdienste in der Schweiz.",
+    "title": "Helvetic Dynamics AG – Transport, Logistik, Bauunternehmung, Personal Vermittlung in der Schweiz",
+    "description": "Helvetic Dynamics AG – Transport, Logistik, Bauunternehmung, Personal Vermittlung, Auto Handel, Autoersatzteile, Import/Export, Kurierdienste, Immobilien, Temporäres Büro und Chauffeur Services in der Schweiz.",
     "keywords": "Transport Schweiz, Logistik Buchs ZH, Gütertransport, Fahrzeughandel, Autoersatzteile, Kurierdienst, Import Export Schweiz, Helvetic Dynamics AG"
   },
   "nav": {
@@ -14,7 +14,7 @@
   "hero": {
     "badge": "Seit 2018 in der Schweiz",
     "title": "Zuverlässige Logistik & Transport",
-    "subtitle": "Ihr Schweizer Partner für Gütertransport, Fahrzeughandel und Logistiklösungen seit 2018.",
+    "subtitle": "Ihr Schweizer Partner für Transport, Logistik, Bauunternehmung, Personal Vermittlung und mehr seit 2018.",
     "cta_primary": "Unsere Dienstleistungen",
     "cta_secondary": "Kontakt aufnehmen"
   },
@@ -25,9 +25,9 @@
   },
   "about": {
     "label": "Über uns",
-    "title": "Helvetic Dynamics AG",
-    "description": "Seit 2018 bieten wir von Buchs ZH aus zuverlässige Transport- und Logistikdienstleistungen in der ganzen Schweiz an. Als Aktiengesellschaft (AG) mit Sitz in Mühlibachstrasse 42, 8107 Buchs ZH, vereinen wir ein breites Spektrum an Dienstleistungen unter einem Dach.",
-    "text": "Unser Fokus liegt auf Qualität, Pünktlichkeit und persönlichem Service. Ob Warentransport, Fahrzeugreparatur, Immobilienverwaltung oder internationale Import- und Exportlösungen – wir sind Ihr verlässlicher Partner. Mit über 7 Jahren Erfahrung im Schweizer Markt bieten wir umfassende Lösungen für Ihre logistischen und geschäftlichen Anforderungen.",
+    "title": "TEAM",
+    "description": "Seit 2018 bieten wir von Buchs ZH aus zuverlässige Transport- und Logistikdienstleistungen in der ganzen Schweiz an. Als Aktiengesellschaft (AG) mit Sitz in Mülibachstrasse 42, 8107 Buchs ZH, vereinen wir ein breites Spektrum an Dienstleistungen unter einem Dach.",
+    "text": "Unser Fokus liegt auf Qualität, Pünktlichkeit und persönlichem Service. Ob Warentransport, Fahrzeughandel, Immobilienverwaltung oder internationale Import- und Exportlösungen – wir sind Ihr verlässlicher Partner. Mit über 7 Jahren Erfahrung im Schweizer Markt bieten wir umfassende Lösungen für Ihre logistischen und geschäftlichen Anforderungen.",
     "legal": {
       "form": "Rechtsform",
       "form_value": "Aktiengesellschaft (AG)",
@@ -40,9 +40,17 @@
       "founded": "Gegründet",
       "founded_value": "20. Juli 2018"
     },
+    "team": {
+      "title": "TEAM",
+      "members": [
+        "Špat Fejzulahu",
+        "Yzeir Fejzulahu",
+        "Pajtim Fejzulahu"
+      ]
+    },
     "management": {
       "title": "Geschäftsleitung",
-      "member": "Spat Fejzulahu"
+      "member": "Špat Fejzulahu"
     },
     "stats": {
       "since": "Seit",
@@ -134,17 +142,17 @@
         ]
       },
       "vehicles": {
-        "title": "Fahrzeugverkauf & Reparatur",
-        "description": "Kauf und Verkauf von Fahrzeugen sowie professionelle Reparatur- und Wartungsservices.",
-        "page_title": "Fahrzeugverkauf & Reparatur – Helvetic Dynamics AG",
-        "page_description": "Kauf und Verkauf von Fahrzeugen sowie professionelle Reparatur- und Wartungsservices.",
-        "details": "Wir bieten umfassende Fahrzeugdienstleistungen – vom Kauf und Verkauf bis hin zu professioneller Reparatur und Wartung. Unser erfahrenes Team sorgt für zuverlässige Ergebnisse.",
+        "title": "Auto Handel",
+        "description": "Kauf und Verkauf von Fahrzeugen – professionell, zuverlässig und zu fairen Preisen.",
+        "page_title": "Auto Handel – Helvetic Dynamics AG",
+        "page_description": "Kauf und Verkauf von Fahrzeugen. Professionell, zuverlässig und zu fairen Preisen.",
+        "details": "Wir bieten professionellen Fahrzeughandel – vom Kauf bis zum Verkauf. Unser erfahrenes Team sorgt für zuverlässige Transaktionen und faire Preise.",
         "features": [
-          "Fahrzeugkauf und -verkauf",
-          "Professionelle Reparaturen",
-          "Regelmässige Wartung",
-          "Inspektionen und Prüfungen",
-          "Ersatzteilversorgung"
+          "Fahrzeugkauf",
+          "Fahrzeugverkauf",
+          "Faire Preise",
+          "Professionelle Beratung",
+          "Alle Fahrzeugtypen"
         ]
       },
       "importexport": {
@@ -175,17 +183,17 @@
           "Schweizweite Abdeckung"
         ]
       },
-      "moving": {
-        "title": "Umzugsdienste",
-        "description": "Professionelle Umzugsdienstleistungen für Privat- und Geschäftskunden – sorgfältig, zuverlässig und termingerecht.",
-        "page_title": "Umzugsdienste – Helvetic Dynamics AG",
-        "page_description": "Professionelle Umzugsdienstleistungen für Privat- und Geschäftskunden in der ganzen Schweiz.",
-        "details": "Wir bieten umfassende Umzugsdienstleistungen für Privat- und Geschäftskunden. Von der Planung über die Verpackung bis hin zum Transport – wir sorgen für einen reibungslosen Umzug.",
+      "bauschtelle": {
+        "title": "Baustelle",
+        "description": "Professionelle Baustellendienstleistungen – von der Planung bis zur Ausführung, zuverlässig und termingerecht.",
+        "page_title": "Baustelle – Helvetic Dynamics AG",
+        "page_description": "Professionelle Baustellendienstleistungen in der ganzen Schweiz. Von der Planung bis zur Ausführung.",
+        "details": "Wir bieten umfassende Baustellendienstleistungen für alle Arten von Bauprojekten. Von der Planung über die Materialbeschaffung bis hin zur Ausführung – wir sorgen für einen reibungslosen Ablauf Ihrer Baustelle.",
         "features": [
-          "Privat- und Geschäftsumzüge",
-          "Verpackungsservice",
-          "Möbelmontage",
-          "Versicherter Transport",
+          "Baustellenplanung und -koordination",
+          "Materialbeschaffung und -transport",
+          "Bauausführung und Überwachung",
+          "Qualitätssicherung",
           "Flexible Terminplanung"
         ]
       },
@@ -201,6 +209,62 @@
           "Sanierung und Renovation",
           "Neubauprojekte",
           "Beratung und Planung"
+        ]
+      },
+      "personnel": {
+        "title": "Vermittlung Personal",
+        "description": "Professionelle Personalvermittlung für alle Branchen – qualifizierte Fachkräfte schnell und zuverlässig.",
+        "page_title": "Vermittlung Personal – Helvetic Dynamics AG",
+        "page_description": "Professionelle Personalvermittlung für alle Branchen. Qualifizierte Fachkräfte schnell und zuverlässig.",
+        "details": "Wir vermitteln qualifiziertes Personal für alle Branchen und Anforderungen. Von Fachkräften bis zu Spezialisten – wir finden die richtigen Mitarbeiter für Ihr Unternehmen.",
+        "features": [
+          "Personalvermittlung für alle Branchen",
+          "Qualifizierte Fachkräfte",
+          "Schnelle Vermittlung",
+          "Lang- und kurzfristige Einsätze",
+          "Individuelle Betreuung"
+        ]
+      },
+      "temporaryoffice": {
+        "title": "Temporäres Büro",
+        "description": "Flexible Bürolösungen für temporäre Projekte – voll ausgestattete Büroräume und Coworking-Spaces.",
+        "page_title": "Temporäres Büro – Helvetic Dynamics AG",
+        "page_description": "Flexible Bürolösungen für temporäre Projekte. Voll ausgestattete Büroräume und Coworking-Spaces.",
+        "details": "Wir bieten flexible Bürolösungen für temporäre Projekte und kurzfristige Bedürfnisse. Voll ausgestattete Büroräume, Meeting-Räume und Coworking-Spaces stehen Ihnen zur Verfügung.",
+        "features": [
+          "Voll ausgestattete Büroräume",
+          "Meeting- und Konferenzräume",
+          "Coworking-Spaces",
+          "Flexible Mietdauer",
+          "Zentrale Lagen"
+        ]
+      },
+      "construction": {
+        "title": "Bau",
+        "description": "Umfassende Baudienstleistungen – von Schalung über Mauerarbeiten bis zu Abriss und Renovationen.",
+        "page_title": "Bau – Helvetic Dynamics AG",
+        "page_description": "Umfassende Baudienstleistungen: Schalung, Mauerarbeiten, Abriss, Renovationen und mehr.",
+        "details": "Wir bieten umfassende Baudienstleistungen für alle Arten von Bauprojekten. Unsere erfahrenen Teams übernehmen Schalung, Mauerarbeiten, Abriss, Renovationen und alle weiteren Bauarbeiten.",
+        "features": [
+          "Schaler (Schalungsarbeiten)",
+          "Maurer (Mauerarbeiten)",
+          "Abriss und Entsorgung",
+          "Personal für Renovationen",
+          "Alle weiteren Bauarbeiten"
+        ]
+      },
+      "drivers": {
+        "title": "Chauffeur Kategorie B & C",
+        "description": "Qualifizierte Fahrer mit Kategorie B (PKW) und C (LKW) – zuverlässig, erfahren und termingerecht.",
+        "page_title": "Chauffeur Kategorie B & C – Helvetic Dynamics AG",
+        "page_description": "Qualifizierte Fahrer mit Kategorie B (PKW) und C (LKW). Zuverlässig, erfahren und termingerecht.",
+        "details": "Wir vermitteln qualifizierte Fahrer mit Kategorie B (PKW) und C (LKW) für alle Transportbedürfnisse. Unsere Fahrer sind erfahren, zuverlässig und verfügen über alle notwendigen Lizenzen.",
+        "features": [
+          "Fahrer Kategorie B (PKW)",
+          "Fahrer Kategorie C (LKW)",
+          "Erfahrene und qualifizierte Fahrer",
+          "Lang- und kurzfristige Einsätze",
+          "Alle Transportarten"
         ]
       }
     }
@@ -219,11 +283,15 @@
         "transport": "Gütertransport",
         "logistics": "Logistik",
         "autoparts": "Autoersatzteile",
-        "vehicles": "Fahrzeuge",
+        "vehicles": "Auto Handel",
         "importexport": "Import & Export",
         "courier": "Kurierdienst",
-        "moving": "Umzugsdienste",
+        "bauschtelle": "Baustelle",
         "realestate": "Immobilien",
+        "personnel": "Vermittlung Personal",
+        "temporaryoffice": "Temporäres Büro",
+        "construction": "Bau",
+        "drivers": "Chauffeur Kategorie B & C",
         "other": "Sonstiges"
       },
       "message": "Ihre Nachricht",
@@ -233,7 +301,7 @@
     },
     "info": {
       "address_label": "Adresse",
-      "address": "Mühlibachstrasse 42, 8107 Buchs ZH",
+      "address": "Mülibachstrasse 42, 8107 Buchs ZH",
       "email_label": "E-Mail",
       "phone_label": "Telefon",
       "hours_label": "Öffnungszeiten",
@@ -242,7 +310,7 @@
   },
   "footer": {
     "company": "Helvetic Dynamics AG",
-    "tagline": "Ihr Partner für Transport & Logistik in der Schweiz.",
+    "tagline": "Helvetic Dynamics AG – Transport, Logistik, Bauunternehmung, Personal Vermittlung und mehr.",
     "uid": "UID: CHE-269.404.940",
     "links_title": "Navigation",
     "legal_title": "Rechtliches",

@@ -9,9 +9,8 @@ const I18n = (() => {
   const SUPPORTED_LANGS = {
     de: { label: 'Deutsch', file: 'i18n/de.json' },
     en: { label: 'English', file: 'i18n/en.json' },
-    // To add a new language:
-    // fr: { label: 'Français', file: 'i18n/fr.json' },
-    // it: { label: 'Italiano', file: 'i18n/it.json' },
+    fr: { label: 'Français', file: 'i18n/fr.json' },
+    it: { label: 'Italiano', file: 'i18n/it.json' },
   };
 
   const DEFAULT_LANG = 'de';

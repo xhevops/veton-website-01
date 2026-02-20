@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Helvetic Dynamics AG – Transport, Logistics & Vehicle Trade in Switzerland",
-    "description": "Helvetic Dynamics AG in Buchs ZH – Your partner for freight transport, logistics, vehicle trade, auto parts, import/export and courier services in Switzerland.",
+    "title": "Helvetic Dynamics AG – Transport, Logistics, Construction Company, Personnel Placement in Switzerland",
+    "description": "Helvetic Dynamics AG – Transport, Logistics, Construction Company, Personnel Placement, Auto Trade, Auto Parts, Import/Export, Courier Services, Real Estate, Temporary Office and Driver Services in Switzerland.",
     "keywords": "transport Switzerland, logistics Buchs ZH, freight transport, vehicle trade, auto parts, courier service, import export Switzerland, Helvetic Dynamics AG"
   },
   "nav": {
@@ -14,7 +14,7 @@
   "hero": {
     "badge": "In Switzerland since 2018",
     "title": "Reliable Logistics & Transport",
-    "subtitle": "Your Swiss partner for freight transport, vehicle trade and logistics solutions since 2018.",
+    "subtitle": "Your Swiss partner for Transport, Logistics, Construction Company, Personnel Placement and more since 2018.",
     "cta_primary": "Our Services",
     "cta_secondary": "Get in Touch"
   },
@@ -25,9 +25,9 @@
   },
   "about": {
     "label": "About Us",
-    "title": "Helvetic Dynamics AG",
-    "description": "Since 2018, we have been providing reliable transport and logistics services across Switzerland from our base in Buchs ZH. As a public limited company (AG) located at Mühlibachstrasse 42, 8107 Buchs ZH, we combine a wide range of services under one roof.",
-    "text": "Our focus is on quality, punctuality and personal service. Whether goods transport, vehicle repair, real estate management or international import and export solutions – we are your reliable partner. With over 7 years of experience in the Swiss market, we offer comprehensive solutions for your logistics and business needs.",
+    "title": "TEAM",
+    "description": "Since 2018, we have been providing reliable transport and logistics services across Switzerland from our base in Buchs ZH. As a public limited company (AG) located at Mülibachstrasse 42, 8107 Buchs ZH, we combine a wide range of services under one roof.",
+    "text": "Our focus is on quality, punctuality and personal service. Whether goods transport, vehicle trade, real estate management or international import and export solutions – we are your reliable partner. With over 7 years of experience in the Swiss market, we offer comprehensive solutions for your logistics and business needs.",
     "legal": {
       "form": "Legal Form",
       "form_value": "Public Limited Company (AG)",
@@ -40,9 +40,17 @@
       "founded": "Founded",
       "founded_value": "July 20, 2018"
     },
+    "team": {
+      "title": "TEAM",
+      "members": [
+        "Špat Fejzulahu",
+        "Yzeir Fejzulahu",
+        "Pajtim Fejzulahu"
+      ]
+    },
     "management": {
       "title": "Management",
-      "member": "Spat Fejzulahu"
+      "member": "Špat Fejzulahu"
     },
     "stats": {
       "since": "Since",
@@ -134,17 +142,17 @@
         ]
       },
       "vehicles": {
-        "title": "Vehicle Sales & Repair",
-        "description": "Buying and selling vehicles as well as professional repair and maintenance services.",
-        "page_title": "Vehicle Sales & Repair – Helvetic Dynamics AG",
-        "page_description": "Buying and selling vehicles as well as professional repair and maintenance services.",
-        "details": "We offer comprehensive vehicle services – from buying and selling to professional repair and maintenance. Our experienced team ensures reliable results.",
+        "title": "Auto Trade",
+        "description": "Buying and selling vehicles – professional, reliable and at fair prices.",
+        "page_title": "Auto Trade – Helvetic Dynamics AG",
+        "page_description": "Buying and selling vehicles. Professional, reliable and at fair prices.",
+        "details": "We offer professional vehicle trading – from buying to selling. Our experienced team ensures reliable transactions and fair prices.",
         "features": [
-          "Vehicle buying and selling",
-          "Professional repairs",
-          "Regular maintenance",
-          "Inspections and checks",
-          "Spare parts supply"
+          "Vehicle buying",
+          "Vehicle selling",
+          "Fair prices",
+          "Professional consultation",
+          "All vehicle types"
         ]
       },
       "importexport": {
@@ -175,17 +183,17 @@
           "Nationwide coverage"
         ]
       },
-      "moving": {
-        "title": "Moving Services",
-        "description": "Professional moving services for private and business customers – careful, reliable and on time.",
-        "page_title": "Moving Services – Helvetic Dynamics AG",
-        "page_description": "Professional moving services for private and business customers throughout Switzerland.",
-        "details": "We offer comprehensive moving services for private and business customers. From planning and packing to transport – we ensure a smooth move.",
+      "bauschtelle": {
+        "title": "Construction Site",
+        "description": "Professional construction site services – from planning to execution, reliable and on time.",
+        "page_title": "Construction Site – Helvetic Dynamics AG",
+        "page_description": "Professional construction site services throughout Switzerland. From planning to execution.",
+        "details": "We offer comprehensive construction site services for all types of construction projects. From planning and material procurement to execution – we ensure smooth operation of your construction site.",
         "features": [
-          "Private and business moves",
-          "Packing service",
-          "Furniture assembly",
-          "Insured transport",
+          "Construction site planning and coordination",
+          "Material procurement and transport",
+          "Construction execution and supervision",
+          "Quality assurance",
           "Flexible scheduling"
         ]
       },
@@ -201,6 +209,62 @@
           "Redevelopment and renovation",
           "New construction projects",
           "Consultation and planning"
+        ]
+      },
+      "personnel": {
+        "title": "Personnel Placement",
+        "description": "Professional personnel placement for all industries – qualified professionals quickly and reliably.",
+        "page_title": "Personnel Placement – Helvetic Dynamics AG",
+        "page_description": "Professional personnel placement for all industries. Qualified professionals quickly and reliably.",
+        "details": "We place qualified personnel for all industries and requirements. From skilled workers to specialists – we find the right employees for your company.",
+        "features": [
+          "Personnel placement for all industries",
+          "Qualified professionals",
+          "Quick placement",
+          "Long and short-term assignments",
+          "Individual support"
+        ]
+      },
+      "temporaryoffice": {
+        "title": "Temporary Office",
+        "description": "Flexible office solutions for temporary projects – fully equipped office spaces and coworking spaces.",
+        "page_title": "Temporary Office – Helvetic Dynamics AG",
+        "page_description": "Flexible office solutions for temporary projects. Fully equipped office spaces and coworking spaces.",
+        "details": "We offer flexible office solutions for temporary projects and short-term needs. Fully equipped office spaces, meeting rooms and coworking spaces are available.",
+        "features": [
+          "Fully equipped office spaces",
+          "Meeting and conference rooms",
+          "Coworking spaces",
+          "Flexible rental period",
+          "Central locations"
+        ]
+      },
+      "construction": {
+        "title": "Construction",
+        "description": "Comprehensive construction services – from formwork to masonry, demolition and renovations.",
+        "page_title": "Construction – Helvetic Dynamics AG",
+        "page_description": "Comprehensive construction services: formwork, masonry, demolition, renovations and more.",
+        "details": "We offer comprehensive construction services for all types of construction projects. Our experienced teams handle formwork, masonry, demolition, renovations and all other construction work.",
+        "features": [
+          "Formwork workers (formwork)",
+          "Masons (masonry)",
+          "Demolition and disposal",
+          "Personnel for renovations",
+          "All other construction work"
+        ]
+      },
+      "drivers": {
+        "title": "Driver Category B & C",
+        "description": "Qualified drivers with Category B (car) and C (truck) – reliable, experienced and on time.",
+        "page_title": "Driver Category B & C – Helvetic Dynamics AG",
+        "page_description": "Qualified drivers with Category B (car) and C (truck). Reliable, experienced and on time.",
+        "details": "We place qualified drivers with Category B (car) and C (truck) for all transport needs. Our drivers are experienced, reliable and have all necessary licenses.",
+        "features": [
+          "Drivers Category B (car)",
+          "Drivers Category C (truck)",
+          "Experienced and qualified drivers",
+          "Long and short-term assignments",
+          "All types of transport"
         ]
       }
     }
@@ -219,11 +283,15 @@
         "transport": "Freight Transport",
         "logistics": "Logistics",
         "autoparts": "Auto Parts",
-        "vehicles": "Vehicles",
+        "vehicles": "Auto Trade",
         "importexport": "Import & Export",
         "courier": "Courier Service",
-        "moving": "Moving Services",
+        "bauschtelle": "Construction Site",
         "realestate": "Real Estate",
+        "personnel": "Personnel Placement",
+        "temporaryoffice": "Temporary Office",
+        "construction": "Construction",
+        "drivers": "Driver Category B & C",
         "other": "Other"
       },
       "message": "Your Message",
@@ -233,7 +301,7 @@
     },
     "info": {
       "address_label": "Address",
-      "address": "Mühlibachstrasse 42, 8107 Buchs ZH",
+      "address": "Mülibachstrasse 42, 8107 Buchs ZH",
       "email_label": "Email",
       "phone_label": "Phone",
       "hours_label": "Opening Hours",
@@ -242,7 +310,7 @@
   },
   "footer": {
     "company": "Helvetic Dynamics AG",
-    "tagline": "Your partner for transport & logistics in Switzerland.",
+    "tagline": "Helvetic Dynamics AG – Transport, Logistics, Construction Company, Personnel Placement and more.",
     "uid": "UID: CHE-269.404.940",
     "links_title": "Navigation",
     "legal_title": "Legal",
