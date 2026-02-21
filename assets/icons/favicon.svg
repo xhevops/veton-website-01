@@ -1,4 +1,10 @@
 <svg viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="40" height="40" rx="8" fill="#D42B2B"/>
-  <path d="M10 12h8v6h4v-6h8v16h-8v-6h-4v6h-8V12z" fill="#fff"/>
+  <defs>
+    <linearGradient id="favicon-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E30613"></stop>
+      <stop offset="100%" stop-color="#B3050F"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="40" height="40" rx="10" fill="url(#favicon-grad)"></rect>
+  <path d="M12 10h4v8h8v-8h4v20h-4v-8h-8v8h-4V10z" fill="#fff"></path>
 </svg>

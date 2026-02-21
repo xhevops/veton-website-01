@@ -90,54 +90,23 @@ function initLoadingScreen() {
     setTimeout(initLottie, 100);
   }
 
-  // After text appears and underline expands, show logo text at center, then reveal page
+  // After text appears and underline expands, reveal page
   setTimeout(() => {
     const logoText = document.getElementById('headerLogoText');
     if (!logoText) return;
 
-    // Hide loading text
-    loadingText.style.opacity = '0';
+    // Fade out loading screen and show page
+    loadingScreen.classList.add('loading-screen--hidden');
+    document.body.classList.remove('loading');
 
-    // Create and show logo text at center position
-    const centerLogoText = document.createElement('span');
-    centerLogoText.className = 'header__logo-text';
-    centerLogoText.textContent = 'HELVETIC DYNAMICS AG';
-    centerLogoText.style.cssText = `
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      opacity: 0;
-      visibility: visible;
-      transition: opacity 0.4s ease-in;
-      font-size: 1.125rem;
-      font-weight: 700;
-      color: var(--gray-900);
-      white-space: nowrap;
-      z-index: 10000;
-    `;
+    // Show the actual logo text in navbar
+    logoText.style.opacity = '1';
+    logoText.style.visibility = 'visible';
+    logoText.style.transition = 'opacity 0.6s ease-in 0.2s';
 
-    loadingScreen.appendChild(centerLogoText);
-
-    // Fade in the center logo text
+    // Remove loading screen after transition
     setTimeout(() => {
-      centerLogoText.style.opacity = '1';
-    }, 100);
-
-    // After showing logo text, fade out loading screen and show page
-    setTimeout(() => {
-      loadingScreen.classList.add('loading-screen--hidden');
-      document.body.classList.remove('loading');
-
-      // Show the actual logo text in navbar
-      logoText.style.opacity = '1';
-      logoText.style.visibility = 'visible';
-      logoText.style.transition = 'opacity 0.4s ease-in';
-
-      // Remove loading screen after transition
-      setTimeout(() => {
-        loadingScreen.remove();
-      }, 600);
+      loadingScreen.remove();
     }, 800);
   }, 3900); // 2.5s truck + 0.8s text fade + 0.6s underline = 3.9s
 }
